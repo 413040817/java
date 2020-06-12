@@ -2,3 +2,5 @@
 https://npm.taobao.org/mirrors/git-for-windows/
 
 ssh-keygen -t rsa -b 4096 -C "413040817@qq.com"
+
+git config --global user.email "413040817@qq.com"
