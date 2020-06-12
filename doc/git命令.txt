@@ -1,0 +1,5 @@
+git add .  // 暂存所有的更改
+git checkout . // 丢弃所有的更改
+git status // 查看文件状态
+git commit -m "本次要提交的概要信息" // 提交
+git push origin master
