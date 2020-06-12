@@ -1,0 +1,4 @@
+相信有很多人通过官网在下载git的时候发现网速只有几十K，淘宝有一个镜像的网站 可以提供下载
+https://npm.taobao.org/mirrors/git-for-windows/
+
+ssh-keygen -t rsa -b 4096 -C "413040817@qq.com"
