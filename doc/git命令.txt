@@ -1,3 +1,4 @@
+﻿ssh-keygen -t ed25519 -C "413040817@qq.com"  //自动创建本机的SSHkey
 git add .  // 暂存所有的更改
 git checkout . // 丢弃所有的更改
 git status // 查看文件状态
